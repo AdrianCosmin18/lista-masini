@@ -1,0 +1,6 @@
+Skoda,Octavia,2021
+Suzuki,Vitarra,2022
+Mazda,6,2020
+Renault,Megane,2019
+Dacia,Duster,2021
+Mercedes,Benz,2009

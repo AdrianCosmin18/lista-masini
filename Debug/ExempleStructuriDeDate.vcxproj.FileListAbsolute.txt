@@ -1,0 +1,2 @@
+C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ExempleStructuriDeDate\Debug\ExempleStructuriDeDate.exe
+C:\Users\Cosmin\C++Meditatii\OOP\StructuriDeDate\ExempleStructuriDeDate\ListaTipMasina\Debug\ExempleStructuriDeDate.exe
